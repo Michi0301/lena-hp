@@ -3,9 +3,6 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
-
     # Profile information
     name: Lena Fraundorfer
     tagline: Hebamme / Gesundheitswirtin (B.A.)
@@ -24,177 +21,46 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
-    languages:
-      - idiom: English
-        level: Native
-
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
-    interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
-
 career-profile:
     title: Über mich
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      Mein Name ist Lena Gleich.
+      Ich bin zweifache Mama, Hebamme, Gesundheitswirtin und Aromatherapeutin.
+      Im Jahr 2009 absolvierte ich die Ausbildung zur Hebamme.
+      Im Anschluss arbeitete ich mehrere Jahre im Kreißsaal einer größeren Klinik sowie nebenbei auch in freiberuflicher Tätigkeit als Hebamme.
+      Zudem machte ich eine Weiterbildung zur Aromatherapeutin.
+      2017 beendete ich erfolgreich mein Studium zur Gesundheitswirtin.
+      Nun möchte ich Ihnen mit Rat, Tat und meinem Hebammenherzen zur Seite stehen.
 
-      Second paragraph if required.
+      Ich freue mich auf Ihre Anfragen.
 
-education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+offers:
+    - header: Beratung in der Schwangerschaft
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        In Kooperation mit Ihrem Gynäkologen berate ich Sie gerne zu Fragen und Beschwerden in der Schwangerschaft.
+        Im Moment biete ich noch keine Vorsorgeuntersuchungen an.
+        Stellen Sie mir Fragen zur Schwangerschaft, Stillzeit oder zum Wochenbett, um sich best möglich vorzubereiten.
+        Ich nutze diese Möglichkeit Sie in dieser besonderen Zeit kennen zu lernen und ein Vertrauensverhältnis zu Ihnen aufzubauen.
 
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - header: Stillberatung
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Ich begleite Sie in der Stillzeit und stehe Ihnen mit Tipps und Tricks zur Seite.
+        Ich zeige Ihnen Stillpositionen und unterstütze Sie eine besondere Stillbeziehung zu Ihrem Kind aufzubauen.
+        Auch beim Abstillen - egal zu welchem Zeitpunkt - stehe ich Ihnen zur Seite.
 
-          - Bullet point
-          - Bullet point
+    - header: Wochenbettbesuche bei Ihnen zu Hause
+      details:
+        Sind Sie ambulant oder nach einem mehrtägigen Klinikaufenthalt zu Hause angekommen,
+        beginnt für Sie und Ihre Familie eine aufregende, aber auch verunsichernde neue Lebensphase.
+        Ich besuche Sie bis zum 10. Tag nach der Geburt in der Regel täglich.
+        Später nach Absprache.
+        Von der Krankenkasse werden noch zusätzlich 16 Besuche bzw. beratende Telefonate während der 12 Wochen nach der Geburt übernommen.
+        Selbst für darüber hinausgehende weitere Besuche trägt Ihre Krankenkasse die Kosten,
+        falls sie ärztlich angeordnet sind, z.B. bei Frühgeburten, Zwillings- oder Mehrlingsgeburten sowie Stillschwierigkeiten.
+        Unter anderem kontrolliere ich die Rückbildung Ihrer Gebärmutter und versorge den Nabel Ihres Neugeborenen.
+        Natürlich stehe ich Ihnen auch für viele weitere Fragen rund um die Geburt und Ihr Kind zur Verfügung.
 
-experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-
-          - Bullet point
-          - Bullet point
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+    - header: Alle kosten werden von der Krankenkasse übernommen!
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
