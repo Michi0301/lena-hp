@@ -35,6 +35,17 @@ career-profile:
       Ich freue mich auf Ihre Anfragen.
 
 offers:
+    - header:
+      details: |
+        <b>Neu:</b> Ab März 2020 eröffne ich mit meiner Hebammenkollegin Lucia die <b>Hebammenpraxis L²</b> in der Wassertorstraße 16 in Isny.
+        Dort biete ich auch Schwangerschaftsvorsorge in Kooperation mit ihrem Gynäkologen/in oder in unserer Kooperationspraxis mit den Ärzten Dr. Sochor und Dr. Duchoslav an.
+
+    - header: Geburtsvorbereitungskurs
+      details: |
+        Lucia und ich möchten Sie bestmöglich auf die Geburt, das Wochenbett und die gemeinsame Zeit mit Ihrem Kind vorbereiten.
+        Wir bieten Ihnen die Möglichkeit, an nur einem Wochenende mit oder ohne Partner einen entspannten Einstieg in diese neue Lebensphase zu finden.
+        Kontaktieren Sie mich diesbezüglich bitte via <a href="mailto:lena@hebamme-weitnau.de">E-Mail</a> oder <a href="tel:017658878008">Telefon</a>.
+
     - header: Beratung in der Schwangerschaft
       details: |
         In Kooperation mit Ihrem Gynäkologen berate ich Sie gerne zu Fragen und Beschwerden in der Schwangerschaft.
